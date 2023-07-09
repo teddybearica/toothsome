@@ -1,0 +1,59 @@
+.container {
+    width: 100%; max-width: 900px;
+    margin: auto;
+    border: solid 3px;
+}
+
+.center {
+    width: 100%; max-width: 600px;
+    padding: 20px;
+    margin: 10px auto;
+    border: solid 3px blue;
+    box-sizing: border-box;
+}
+
+img.header {
+    height: auto;
+    width: 100%; max-width: 900px;
+    margin: 0 auto;
+
+}
+
+img.drawings {
+    height: auto;
+    width: 100%; max-width: 500px;
+    margin: 0 auto;
+    display: block;
+    border: solid red;
+}
+
+.info {
+    width: 100%; max-width: 400px;
+    margin: 5px auto 0;
+    border: solid;
+    text-align: center;
+}
+
+
+ul {
+    border: 2px solid rebeccapurple;
+  }
+
+li {
+    border: 2px solid red;
+    margin: 0 10px;
+    padding: 5px;
+  }
+  
+ul {
+    display: inline-flex;
+    list-style: none;
+    padding: 10px;
+  } 
+
+.navigation {
+    display: flex;
+    align-items: center;
+  justify-content: center;
+}
+  
