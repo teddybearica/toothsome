@@ -8,7 +8,7 @@
     width: 100%; max-width: 600px;
     padding: 20px;
     margin: 10px auto;
-    border: solid 3px;
+    border: solid 3px blue;
     box-sizing: border-box;
 }
 
