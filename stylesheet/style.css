@@ -47,6 +47,15 @@ img.drawings {
     text-align: center;
 }
 
+img.tile { 
+    border: 25px solid transparent;
+    padding: 25px;
+    border-image-source: url("../images/TileAttempt2.png");
+    border-image-repeat: round;
+    border-image-slice: 50;
+    box-sizing: border-box;
+  }
+
 .artist {
     width: 100%; max-width: 400px;
     margin: 0 auto;
