@@ -48,7 +48,7 @@ img.drawings {
 }
 
 img.tile { 
-    border: 25px solid transparent;
+    border: 50px solid transparent;
     padding: 25px;
     border-image-source: url("../images/TileAttempt3.png");
     border-image-repeat: round;
