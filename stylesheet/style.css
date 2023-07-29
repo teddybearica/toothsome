@@ -19,7 +19,7 @@
 .background {
     background-image: url("../images/backgroundtest.png");
     box-sizing: border-box;
-    background-size: 100% 100%;
+    background-size: 100% 150%;
     background-repeat: no-repeat;
     width: 100%;
     height: auto;
@@ -48,11 +48,11 @@ img.drawings {
 }
 
 img.tile { 
-    border: 50px solid transparent;
-    padding: 25px;
-    border-image-source: url("../images/TileAttempt3.png");
+    border: 10px solid transparent;
+    padding: 0px;
+    border-image-source: url("../images/tile3.png");
     border-image-repeat: round;
-    border-image-slice: 50;
+    border-image-slice: 20;
     box-sizing: border-box;
   }
 
@@ -86,7 +86,7 @@ ul {
 
 .outline {
     width: 100%;
-    padding: 5px 15px 50px 15px;
+    padding: 5px 20px 50px 20px;
     margin: 0 15px -30px 15px;
 }
 
